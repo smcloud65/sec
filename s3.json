@@ -70,7 +70,7 @@
                     ]
                 ]
             },
-            "Description": "Name of S3 bucket to hold website content test 3"
+            "Description": "Name of S3 bucket to hold website content test 1"
         }
     }
 }

@@ -9,6 +9,6 @@ template_type: CFT
 cft_parameters:
  variable_values:
   - name: KeyName
-	value: 10
+        value: 10
   - name: AMI
-	value: ami-45785
+        value: ami-45785

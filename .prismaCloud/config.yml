@@ -12,6 +12,7 @@ cft_parameters:
    value: 10
  - name: AMI
    value: ami-45785
+github_asset_name: "smcloud65"
 tags:
 - phase:demo
 - env:SEsandbox
